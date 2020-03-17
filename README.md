@@ -203,3 +203,4 @@ Please cite `gym-super-mario-bros` if you use it in your research.
   year = {2018},
 }
 ```
+[![Run on Repl.it](https://repl.it/badge/github/Kautenja/gym-super-mario-bros)](https://repl.it/github/Kautenja/gym-super-mario-bros)
